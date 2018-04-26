@@ -5,10 +5,6 @@
  */
 package op8;
 
-/**
- *
- * @author student
- */
 public class Czekolada extends Product {
          public Czekolada(double price, String name, String describe) {
         super(price, name, describe);

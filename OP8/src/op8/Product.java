@@ -5,10 +5,6 @@
  */
 package op8;
 
-/**
- *
- * @author student
- */
 public abstract class Product {
 
     private double price;

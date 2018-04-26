@@ -5,10 +5,6 @@
  */
 package op8;
 
-/**
- *
- * @author student
- */
 public class Tractor extends Product{
  public Tractor(double price, String name, String describe) {
         super(price, name, describe);
