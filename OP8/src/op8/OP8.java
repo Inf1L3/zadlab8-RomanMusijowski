@@ -115,6 +115,10 @@ public class OP8 {
             System.out.println();
             i++;
         }
+
+        /*Za każdym razem metoda toString() wyświetla inne wyniki
+        * za każdym razem dla innej figury
+        * */
     }
 }
         
